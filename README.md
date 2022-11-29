@@ -7,13 +7,21 @@ A Company is having its offices across all locations of India. These locations a
 **Dataset Details**
 
 `id:` Employee id - unique
+
 `age:` age of primary beneficiary
+
 `sex:` Gender data - female, male
+
 `bmi:` Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9
+
 `dependent:` Number of children other family members who are not earning and dependent on employee.
+
 `alcohol:` Alcohol consumption habit. Possible values - daily, weekend, party, no, rarely
+
 `smoker:` Smoking habit.
+
 `zone:` The office location zones. Possible values - east, west, south, north, northeast, southeast, southwest, northwest.
+
 `expenditure:` Individual medical expenditure by employees during year 2019
 
 ## Questions answered: 
